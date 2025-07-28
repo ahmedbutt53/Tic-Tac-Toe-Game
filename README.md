@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-Basic game
+Basic game using HTML,CSS and Java Script

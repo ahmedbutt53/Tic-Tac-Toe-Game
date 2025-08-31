@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-Game
-Basic game using HTML,CSS and Java Script
+#live deployment link on Netify
+https://jazzy-figolla-4dcab3.netlify.app/
